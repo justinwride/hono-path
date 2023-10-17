@@ -1,0 +1,18 @@
+{
+  "name": "hono-path",
+  "version": "1.0.0",
+  "description": "Testing Hono Path Parameters",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hono": "^3.8.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.13.1"
+  }
+}
